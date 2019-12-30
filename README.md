@@ -8,7 +8,7 @@ Sources:
 - MIT
 - David Sontag
 - Radfod Neal
-- an important source of exercises is LA4ML = a course from http://www4.ncsu.edu/~slrace/index.html; the link is no loger available; it was a course called "AA502, 2017, Linear Algebra", taught by Shaina Race, PhD, North Carolina State University
+- an important source of exercises is LA4ML = a course from http://www4.ncsu.edu/~slrace/index.html; the link is no longer available; it was a course called "AA502, 2017, Linear Algebra", taught by Shaina Race, PhD, North Carolina State University
 ...
 
 Directories/Files:
