@@ -12,6 +12,7 @@ Sources:
 - ...
 
 Directories/Files:
+
     "important_photos" = some proofs/ideas written by hand; there are mentioned in the pdf files where needed
 
     "practical exercises" = practical exercises
