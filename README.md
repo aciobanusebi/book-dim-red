@@ -12,10 +12,10 @@ Sources:
 - ...
 
 Directories/Files:
-    - **"exercises" = the solved and proposed exercises**
-    - "important_photos" = some proofs/ideas written by hand; there are mentioned in the pdf files where needed
-    - "practical exercises" = practical exercises 
-    - "dimensionality-reduction-roadmap.pdf" = some theory regarding linear algebra or dim. reduction
+- **"exercises" = the solved and proposed exercises**
+- "important_photos" = some proofs/ideas written by hand; there are mentioned in the pdf files where needed
+- "practical exercises" = practical exercises 
+- "dimensionality-reduction-roadmap.pdf" = some theory regarding linear algebra or dim. reduction
 
 Observations:
 - there are typos
